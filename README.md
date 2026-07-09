@@ -49,6 +49,10 @@ All sensors and components connect to the FPGA through GPIO pins:
 | Water Level Sensor | C14 |
 | Servo (Door Lock) | J4 / S0 |
 | DHT11 (Temp/Humidity) | L4 |
-| Buzzer (via LM358 op-amp) | C13 |
+| Buzzer (via LM358 op-amp) | C13 |)
+<p align="center">
+  <img src="images/hardware-schematic-diagram.png" width="80%" />
+  <br><em>Hardware schematic — sensor and component interconnections (KiCad)</em>
+</p>
 
 ## 📁 Repository Structure
